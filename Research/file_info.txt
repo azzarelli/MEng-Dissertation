@@ -1,0 +1,7 @@
+
+FileName                Info 
+
+risk_as_stats_ml       *Draft* of risk assessment methods with explanation of using Statistical learning and ML to determine risk in finance. 
+ethics_and_risk         Basic statistical and ethical understanding of Risk
+FERMA-AI-RISK-MANG      Basics of incorporating an AI Risk Management System and the issues with it
+safety_systems          Sent by RiskDoctor. An understanding with examples of expert systems that aid the safety of peopl (e.g. medication dosage calculation) *year 2000
