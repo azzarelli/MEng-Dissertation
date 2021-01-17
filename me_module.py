@@ -9,7 +9,7 @@ Meta Ethics module - refer to Body of Research for elaboration on module functio
             C_ego  - AHP method, set of assigned ratings for the moral-wrongdoing of each choice, constrained by 0 < C_ego[i] < 1
                      proximity condition of 0.1 between choices, if satsified highest rank is taken, if not C_sego's decision over-rules
     Output:
-            C_me - Final choice given by Metaethics module
+            C_me - returns one final choice given by Metaethics module
 """
 import numpy as np
 
