@@ -8,7 +8,7 @@ Legal Influence module - refer to Body of Research for elaboration on module fun
             SEVERITY - set of ranked choices in order of severity
             all sets of choices are in respective order of each other, i.e. choice ch1 = choice ch1 = choice s1
     Output:
-            C_lw
+            law_get(.) - returns one final choice given by Legal Influence module
 """
 import random
 
